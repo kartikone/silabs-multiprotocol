@@ -1,6 +1,6 @@
 ---
 version: 2.4.1
-slug: silabs_multiprotocol_legacy
+slug: silabs_multiprotocol
 name: Silicon Labs Multiprotocol (older)
 description: (Older)Zigbee and OpenThread multiprotocol add-on
 url: >
