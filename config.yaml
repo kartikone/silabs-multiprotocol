@@ -1,10 +1,10 @@
 ---
 version: 2.4.1
-slug: silabs_multiprotocol
-name: Silicon Labs Multiprotocol
-description: Zigbee and OpenThread multiprotocol add-on
+slug: silabs_multiprotocol_legacy
+name: Silicon Labs Multiprotocol (older)
+description: (Older)Zigbee and OpenThread multiprotocol add-on
 url: >
-  https://github.com/home-assistant/addons/tree/master/silabs-multiprotocol
+  https://github.com/kartikone/silabs-multiprotocol
 arch:
   - armv7
   - aarch64
